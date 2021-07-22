@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shega Vala
 - 👀 I’m interested in..coding 
-- 🌱 I’m currently learning ...Java 
-- 💞️ I’m looking to collaborate on ...different Java projects 
+- 🌱 I’m learning Java and MySql
+- 💞️ I’m looking to collaborate on ...different Java and MySql projects 
 - 📫 How to reach me ...shegavala@gmail.com
 
 <!---
